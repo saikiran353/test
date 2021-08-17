@@ -1,1 +1,5 @@
-print('hai welcome to git tutorials. learning is easy')
+user = input('enter your opinion yes/no: ')
+if user == 'yes':
+    print('enjoy ur treat')
+else:
+    print('make your own treat')
